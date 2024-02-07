@@ -1,0 +1,147 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.main_content{
+
+    background-color:#2bcbba ;
+    height: 800px;
+}
+
+.header{
+
+    height: 100px;
+    background-color:#82ccdd ;
+    color: #000;
+    text-align: left;
+    margin: 15px;
+    margin-top: 15px;
+   
+}
+
+
+    
+    
+    
+    .nav{
+    
+    height: 100px;
+    
+    background-color:#fad390;
+    
+    color: #000;
+    
+    text-align: left;
+    
+   margin: 15px;
+   
+    }
+
+    .content_section{
+        display: flex;
+        height: 70%;
+        margin: 15px;
+
+    }
+
+
+    .article{
+        width: 60%;
+        background-color: #ffcccc;
+        height: 100%;
+
+    }
+
+    .article_area{
+        height: 100%;
+
+    }
+
+    .article_reading{
+        height: 70%;
+        background-color: #ffb8b8;
+
+    }
+
+    .article_reading h1{
+
+        background-color: white;
+        color: #000;
+        height: 50px;
+        text-align: left;
+        margin: 15px;
+        font-size: 14px;
+    }
+
+    .article_reading p{
+
+        background-color: white;
+        color: #000;
+        height: 150px;
+        text-align: left;
+        margin: 15px;
+        font-size: 14px;
+    }
+
+    .article_section{
+
+        height: 30%;
+        background-color:#7d5fff;
+        
+
+    }
+
+    
+   
+
+
+    .aside{
+    width: 40%;
+    background-color: #cd84f1;
+    height: 100%;
+    
+
+    }
+
+    .aside_top{
+
+        height: 30%;
+        background-color: #4bcffa;
+        display: flex;
+        
+    }
+
+    .aside_top_left{
+        width:50% ;
+        background-color: #0be881;
+       
+
+    }
+    s
+    .aside_top_right{
+        width:50% ;
+        background-color:#ffc048;
+        
+
+    }
+   .aside_bottom{
+    height: 70%;
+    background-color: #ff5e57;
+    padding-bottom: 15px;
+    
+   
+
+   }
+
+
+   .footer{
+
+    background-color: #0be881;
+    height: 100px;
+    color: #1e272e;
+    text-align: left;
+    
+    
+   }
